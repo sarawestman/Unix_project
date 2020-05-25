@@ -1,5 +1,7 @@
 ## Guessing game project
-&nbsp;
-Mån 25 Maj 2020 17:17:56 CEST
-&nbsp;
+<br />
+Date
+Mån 25 Maj 2020 17:21:01 CEST
+<br />
+Lines of code
 25
